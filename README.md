@@ -1,4 +1,5 @@
 Balanceador con MySQL y Nginx
+
 En este proyecto realizaremos una configuración con una máquina que funcionará como balanceador, 2 que funcionarán con Nginx y PHP y una ultima que tendra MySQL Server.
 
 Configuración VagrantFile y scripts de aprovisionamiento.
