@@ -185,6 +185,4 @@ sudo apt-get install -y mariadb-server
 
 - Para la comprobar que esta funcionando la pagina web, iremos a nuestro navegador escribiremos "localhost:9000".
 
- ![image](Fotos/22.png)
-
- - Ya solo faltaria configurar el wordpress.
+- Tambien tengo instaldo la pagina de base de datos porque no me funcionaba el wordpress pero al final si lo he solucionado.
